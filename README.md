@@ -1,7 +1,17 @@
-## Hi there 👋
+Hi, I'm Javaan! 
+
+<h2>👨‍💻 CyberSecurity Projects:</h2>
+
+- [Home Lab](https:github.com/Javaan009/LABURL)
+<h3>Certifications</h3>
+ 
+- [Google Cybersecurity](https://coursera.org/share/733301305860d4eb730cb876edf2c0c8)
+<h2> 🤳 Connect with me:</h2>
+
+
 
 <!--
-**Javaan009/javaan009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
